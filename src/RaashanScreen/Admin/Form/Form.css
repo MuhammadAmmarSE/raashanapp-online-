@@ -1,0 +1,13 @@
+
+#FormImageLabel
+{ padding-top: 10px;
+  white-space: nowrap; 
+  width: calc(100%); 
+  min-width: 200px;
+  overflow: hidden;
+  text-overflow: ellipsis; 
+height:100%;
+float:left;
+max-width:200px;
+vertical-align: middle;
+}

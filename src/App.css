@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url('./fonts/adobe-arabic-bold-1.ttf')   /* Safari, Android, iOS */
+       
+}
+
+
+.App {
+  
+  background: rgb(235, 209, 153);
+  min-height: 100vh;
+  min-width: 100vw;
+  z-index:0;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}

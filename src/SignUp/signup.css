@@ -1,0 +1,10 @@
+.link{
+    text-decoration: aquamarine underline;
+    color: aquamarine;
+    cursor:pointer;
+}
+.link:hover{
+    text-decoration: rgb(0, 195, 255) underline;
+    color: rgb(0, 195, 255);
+
+}
